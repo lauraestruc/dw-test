@@ -1,0 +1,10 @@
+@mixin sections {
+    margin: 1% 0%;
+    padding: 10px 0px;
+}
+
+@mixin title-section {
+    text-align: center;
+    font-size: 20px;
+    margin: 20px 0px;
+}
